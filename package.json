@@ -1,5 +1,5 @@
 {
-  "name": "nativescript-jpush",
+  "name": "nativescript-android-jpush",
   "version": "1.0.0",
   "main": "index.js",
   "nativescript": {
@@ -15,5 +15,13 @@
     "jpush"
   ],
   "author": "yilei",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/five-lei/jpush-sdk.git"
+  },
+  "bugs": {
+    "url": "https://github.com/five-lei/jpush-sdk/issues"
+  },
+  "homepage": "https://github.com/five-lei/jpush-sdk#readme"
 }
