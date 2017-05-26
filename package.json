@@ -1,0 +1,19 @@
+{
+  "name": "nativescript-jpush",
+  "version": "1.0.0",
+  "main": "index.js",
+  "nativescript": {
+    "platforms": {
+      "android": "2.5.0"
+    }
+  },
+  "description": "a plugin for jiguang push built by yilei",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jpush"
+  ],
+  "author": "yilei",
+  "license": "ISC"
+}
